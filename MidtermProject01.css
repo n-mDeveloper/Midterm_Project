@@ -1,0 +1,42 @@
+#Grand-parent{
+    height: 100mm;
+    width: 120mm;
+    background-color: hsl(241, 100%, 50%);    
+    position:absolute;
+    left: 33%;
+    text-align: left
+}
+
+#Parent{
+    height: 80mm;
+    width: 100mm;
+    background-color: hsl(0, 100%, 50%);    
+    position:absolute;
+    left: 35.5%;
+    top: 18%;
+    text-align:left
+}
+
+#Child{
+    height: 60mm;
+    width: 80mm;
+    background-color: hsl(54, 100%, 50%);    
+    position: absolute; 
+    left: 38%;
+    top: 24%;
+    text-align:initial
+}
+
+#Resultdiv{
+    padding-top: 28%;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 45%;
+}
+
+#Resultdiv2{
+    padding-top: 28%;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 45%;
+}
